@@ -1,0 +1,347 @@
+#EXTM3U
+#EXTINF:-1,RAI 1 HD
+http://tvtelevision.no-ip.net:8000/live/cciptv.multimediaskype1327/1328skypecciptv.multimedia/1.ts
+#EXTINF:-1,RAI 2 HD
+http://tvtelevision.no-ip.net:8000/live/cciptv.multimediaskype1327/1328skypecciptv.multimedia/2.ts
+#EXTINF:-1,RAI 3 HD
+http://tvtelevision.no-ip.net:8000/live/cciptv.multimediaskype1327/1328skypecciptv.multimedia/3.ts
+#EXTINF:-1,Rete 4 HD
+http://tvtelevision.no-ip.net:8000/live/cciptv.multimediaskype1327/1328skypecciptv.multimedia/879.ts
+#EXTINF:-1,Canale 5 HD
+http://tvtelevision.no-ip.net:8000/live/cciptv.multimediaskype1327/1328skypecciptv.multimedia/880.ts
+#EXTINF:-1,Italia 1 HD
+http://tvtelevision.no-ip.net:8000/live/cciptv.multimediaskype1327/1328skypecciptv.multimedia/882.ts
+#EXTINF:-1,LA7 HD
+http://tvtelevision.no-ip.net:8000/live/cciptv.multimediaskype1327/1328skypecciptv.multimedia/1590.ts
+#EXTINF:-1,Italia: TV 8 (Direct)
+http://tvtelevision.no-ip.net:8000/live/cciptv.multimediaskype1327/1328skypecciptv.multimedia/11374.ts
+#EXTINF:-1,Italia: NOVE (Direct)
+http://tvtelevision.no-ip.net:8000/live/cciptv.multimediaskype1327/1328skypecciptv.multimedia/11372.ts
+#EXTINF:-1,RSI la1
+http://tvtelevision.no-ip.net:8000/live/cciptv.multimediaskype1327/1328skypecciptv.multimedia/10.ts
+#EXTINF:-1,RSI la2
+http://tvtelevision.no-ip.net:8000/live/cciptv.multimediaskype1327/1328skypecciptv.multimedia/11.ts
+#EXTINF:-1,------------  Cinema    ------------
+http://tvtelevision.no-ip.net:8000/live/cciptv.multimediaskype1327/1328skypecciptv.multimedia/742.ts
+#EXTINF:-1,IT* 3D
+http://tvtelevision.no-ip.net:8000/live/cciptv.multimediaskype1327/1328skypecciptv.multimedia/11147.ts
+#EXTINF:-1,Cinema  3D
+http://tvtelevision.no-ip.net:8000/live/cciptv.multimediaskype1327/1328skypecciptv.multimedia/2229.ts
+#EXTINF:-1,Cinema Uno HD*
+http://tvtelevision.no-ip.net:8000/live/cciptv.multimediaskype1327/1328skypecciptv.multimedia/6796.ts
+#EXTINF:-1, Loc. Cinema Uno HD
+http://tvtelevision.no-ip.net:8000/live/cciptv.multimediaskype1327/1328skypecciptv.multimedia/10968.ts
+#EXTINF:-1,Italia: Cinema Uno HD (Direct)
+http://tvtelevision.no-ip.net:8000/live/cciptv.multimediaskype1327/1328skypecciptv.multimedia/11342.ts
+#EXTINF:-1,Cinema Uno +24 HD*
+http://tvtelevision.no-ip.net:8000/live/cciptv.multimediaskype1327/1328skypecciptv.multimedia/6797.ts
+#EXTINF:-1,Loc. Cinema Uno +24 HD
+http://tvtelevision.no-ip.net:8000/live/cciptv.multimediaskype1327/1328skypecciptv.multimedia/10967.ts
+#EXTINF:-1,Italia: Cinema Uno  24 HD (Direct)
+http://tvtelevision.no-ip.net:8000/live/cciptv.multimediaskype1327/1328skypecciptv.multimedia/11333.ts
+#EXTINF:-1,Cinema Family HD*
+http://tvtelevision.no-ip.net:8000/live/cciptv.multimediaskype1327/1328skypecciptv.multimedia/6798.ts
+#EXTINF:-1,Italia: Cinema Family HD (Direct)
+http://tvtelevision.no-ip.net:8000/live/cciptv.multimediaskype1327/1328skypecciptv.multimedia/11339.ts
+#EXTINF:-1, Loc. Cinema Family   HD
+http://tvtelevision.no-ip.net:8000/live/cciptv.multimediaskype1327/1328skypecciptv.multimedia/10965.ts
+#EXTINF:-1,Cinema Comedy HD*
+http://tvtelevision.no-ip.net:8000/live/cciptv.multimediaskype1327/1328skypecciptv.multimedia/6799.ts
+#EXTINF:-1, Loc. Cinema Comedy   HD
+http://tvtelevision.no-ip.net:8000/live/cciptv.multimediaskype1327/1328skypecciptv.multimedia/10963.ts
+#EXTINF:-1,Italia: Cinema Comedy HD (Direct)
+http://tvtelevision.no-ip.net:8000/live/cciptv.multimediaskype1327/1328skypecciptv.multimedia/11334.ts
+#EXTINF:-1,Cinema Collection HD*
+http://tvtelevision.no-ip.net:8000/live/cciptv.multimediaskype1327/1328skypecciptv.multimedia/6800.ts
+#EXTINF:-1,Loc. Cinema Collection HD
+http://tvtelevision.no-ip.net:8000/live/cciptv.multimediaskype1327/1328skypecciptv.multimedia/10966.ts
+#EXTINF:-1,Italia: Cinema Collection HD (Direct)
+http://tvtelevision.no-ip.net:8000/live/cciptv.multimediaskype1327/1328skypecciptv.multimedia/11340.ts
+#EXTINF:-1,Cinema Romance HD*
+http://tvtelevision.no-ip.net:8000/live/cciptv.multimediaskype1327/1328skypecciptv.multimedia/6801.ts
+#EXTINF:-1,Loc. Cinema Romance HD
+http://tvtelevision.no-ip.net:8000/live/cciptv.multimediaskype1327/1328skypecciptv.multimedia/10964.ts
+#EXTINF:-1,Italia: Cinema Romance HD (Direct)
+http://tvtelevision.no-ip.net:8000/live/cciptv.multimediaskype1327/1328skypecciptv.multimedia/11336.ts
+#EXTINF:-1,Cinema Drama HD*
+http://tvtelevision.no-ip.net:8000/live/cciptv.multimediaskype1327/1328skypecciptv.multimedia/6803.ts
+#EXTINF:-1,Loc. Cinema Drama HD
+http://tvtelevision.no-ip.net:8000/live/cciptv.multimediaskype1327/1328skypecciptv.multimedia/10961.ts
+#EXTINF:-1,Italia: Cinema Drama HD (Direct)
+http://tvtelevision.no-ip.net:8000/live/cciptv.multimediaskype1327/1328skypecciptv.multimedia/11335.ts
+#EXTINF:-1,Italia: Cinema Suspense HD (Direct)
+http://tvtelevision.no-ip.net:8000/live/cciptv.multimediaskype1327/1328skypecciptv.multimedia/11337.ts
+#EXTINF:-1,Cinema Due HD*
+http://tvtelevision.no-ip.net:8000/live/cciptv.multimediaskype1327/1328skypecciptv.multimedia/6802.ts
+#EXTINF:-1,Loc. Cinema Due HD
+http://tvtelevision.no-ip.net:8000/live/cciptv.multimediaskype1327/1328skypecciptv.multimedia/10960.ts
+#EXTINF:-1,Italia: Cinema Due HD (Direct)
+http://tvtelevision.no-ip.net:8000/live/cciptv.multimediaskype1327/1328skypecciptv.multimedia/11341.ts
+#EXTINF:-1,Cinema Action HD*
+http://tvtelevision.no-ip.net:8000/live/cciptv.multimediaskype1327/1328skypecciptv.multimedia/6804.ts
+#EXTINF:-1,Italia: Cinema Action HD (Direct)
+http://tvtelevision.no-ip.net:8000/live/cciptv.multimediaskype1327/1328skypecciptv.multimedia/11338.ts
+#EXTINF:-1,Rai Premium
+http://tvtelevision.no-ip.net:8000/live/cciptv.multimediaskype1327/1328skypecciptv.multimedia/233.ts
+#EXTINF:-1,Rai Movie
+http://tvtelevision.no-ip.net:8000/live/cciptv.multimediaskype1327/1328skypecciptv.multimedia/23.ts
+#EXTINF:-1,------------  Primafila    ------------
+http://tvtelevision.no-ip.net:8000/live/cciptv.multimediaskype1327/1328skypecciptv.multimedia/737.ts
+#EXTINF:-1,Primafila 1 HD - Ben is Back [HD] (2019)
+http://tvtelevision.no-ip.net:8000/live/cciptv.multimediaskype1327/1328skypecciptv.multimedia/1476.ts
+#EXTINF:-1,Primafila 2 HD - Ben is Back [HD] (2019)
+http://tvtelevision.no-ip.net:8000/live/cciptv.multimediaskype1327/1328skypecciptv.multimedia/1477.ts
+#EXTINF:-1,Primafila 3 HD - Mission Impossible - Fallout [HD] (2018)
+http://tvtelevision.no-ip.net:8000/live/cciptv.multimediaskype1327/1328skypecciptv.multimedia/1493.ts
+#EXTINF:-1,Primafila 4 HD - Mission Impossible - Fallout [HD] (2018)
+http://tvtelevision.no-ip.net:8000/live/cciptv.multimediaskype1327/1328skypecciptv.multimedia/1595.ts
+#EXTINF:-1,Primafila 5 HD - Il ritorno di Mary Poppins (2018)
+http://tvtelevision.no-ip.net:8000/live/cciptv.multimediaskype1327/1328skypecciptv.multimedia/1596.ts
+#EXTINF:-1,Primafila 6 HD - Il ritorno di Mary Poppins (2018)
+http://tvtelevision.no-ip.net:8000/live/cciptv.multimediaskype1327/1328skypecciptv.multimedia/1597.ts
+#EXTINF:-1,Primafila 7 HD - The Nun – La Vocazione Del Male (2018)
+http://tvtelevision.no-ip.net:8000/live/cciptv.multimediaskype1327/1328skypecciptv.multimedia/1598.ts
+#EXTINF:-1,Primafila 9 HD - Red Zone - 22 Miglia di fuoco [HD] (2018)
+http://tvtelevision.no-ip.net:8000/live/cciptv.multimediaskype1327/1328skypecciptv.multimedia/1600.ts
+#EXTINF:-1,Primafila 8 HD - The Nun – La Vocazione Del Male (2018)
+http://tvtelevision.no-ip.net:8000/live/cciptv.multimediaskype1327/1328skypecciptv.multimedia/1599.ts
+#EXTINF:-1,Primafila 10 HD - Red Zone - 22 Miglia di fuoco [HD] (2018)
+http://tvtelevision.no-ip.net:8000/live/cciptv.multimediaskype1327/1328skypecciptv.multimedia/1601.ts
+#EXTINF:-1,Primafila 11 HD - Gli incredibili 2 (2018)
+http://tvtelevision.no-ip.net:8000/live/cciptv.multimediaskype1327/1328skypecciptv.multimedia/1602.ts
+#EXTINF:-1,Primafila 12 HD - Gli incredibili 2 (2018)
+http://tvtelevision.no-ip.net:8000/live/cciptv.multimediaskype1327/1328skypecciptv.multimedia/1603.ts
+#EXTINF:-1,Primafila 13 HD - Assassination Nation [HD] (2018)
+http://tvtelevision.no-ip.net:8000/live/cciptv.multimediaskype1327/1328skypecciptv.multimedia/1604.ts
+#EXTINF:-1,Primafila 14 HD - Assassination Nation [HD] (2018)
+http://tvtelevision.no-ip.net:8000/live/cciptv.multimediaskype1327/1328skypecciptv.multimedia/1481.ts
+#EXTINF:-1,Primafila 15 HD - Il testimone invisibile [HD] (2018)
+http://tvtelevision.no-ip.net:8000/live/cciptv.multimediaskype1327/1328skypecciptv.multimedia/1482.ts
+#EXTINF:-1,Primafila 16 HD - Il testimone invisibile [HD] (2018)
+http://tvtelevision.no-ip.net:8000/live/cciptv.multimediaskype1327/1328skypecciptv.multimedia/1605.ts
+#EXTINF:-1,Primafila 17 HD - Upgrade [HD] (2018)
+http://tvtelevision.no-ip.net:8000/live/cciptv.multimediaskype1327/1328skypecciptv.multimedia/1606.ts
+#EXTINF:-1,Primafila 18 HD - Upgrade [HD] (2018)
+http://tvtelevision.no-ip.net:8000/live/cciptv.multimediaskype1327/1328skypecciptv.multimedia/1478.ts
+#EXTINF:-1,------------  Intrattenimento    ------------
+http://tvtelevision.no-ip.net:8000/live/cciptv.multimediaskype1327/1328skypecciptv.multimedia/743.ts
+#EXTINF:-1,Uno HD*
+http://tvtelevision.no-ip.net:8000/live/cciptv.multimediaskype1327/1328skypecciptv.multimedia/3521.ts
+#EXTINF:-1,Italia: Uno HD (Direct)
+http://tvtelevision.no-ip.net:8000/live/cciptv.multimediaskype1327/1328skypecciptv.multimedia/11344.ts
+#EXTINF:-1,Atlantic. HD
+http://tvtelevision.no-ip.net:8000/live/cciptv.multimediaskype1327/1328skypecciptv.multimedia/9969.ts
+#EXTINF:-1,Italia: Atlantic HD (Direct)
+http://tvtelevision.no-ip.net:8000/live/cciptv.multimediaskype1327/1328skypecciptv.multimedia/11343.ts
+#EXTINF:-1,Italia: Fox HD HD (Direct)
+http://tvtelevision.no-ip.net:8000/live/cciptv.multimediaskype1327/1328skypecciptv.multimedia/11319.ts
+#EXTINF:-1,Fox +1 HD
+http://tvtelevision.no-ip.net:8000/live/cciptv.multimediaskype1327/1328skypecciptv.multimedia/8312.ts
+#EXTINF:-1,Italia: Fox Life HD (Direct)
+http://tvtelevision.no-ip.net:8000/live/cciptv.multimediaskype1327/1328skypecciptv.multimedia/11318.ts
+#EXTINF:-1,Fox Life +1 HD
+http://tvtelevision.no-ip.net:8000/live/cciptv.multimediaskype1327/1328skypecciptv.multimedia/8311.ts
+#EXTINF:-1,Italia: Fox Comedy HD (Direct)
+http://tvtelevision.no-ip.net:8000/live/cciptv.multimediaskype1327/1328skypecciptv.multimedia/11316.ts
+#EXTINF:-1,Fox Comedy +1 HD
+http://tvtelevision.no-ip.net:8000/live/cciptv.multimediaskype1327/1328skypecciptv.multimedia/5536.ts
+#EXTINF:-1,Italia: Fox Crime HD (Direct)
+http://tvtelevision.no-ip.net:8000/live/cciptv.multimediaskype1327/1328skypecciptv.multimedia/11317.ts
+#EXTINF:-1,Fox Crime +1 HD
+http://tvtelevision.no-ip.net:8000/live/cciptv.multimediaskype1327/1328skypecciptv.multimedia/8313.ts
+#EXTINF:-1,Italia: Fox Animation HD (Direct)
+http://tvtelevision.no-ip.net:8000/live/cciptv.multimediaskype1327/1328skypecciptv.multimedia/11315.ts
+#EXTINF:-1,Fox Animation +1 HD
+http://tvtelevision.no-ip.net:8000/live/cciptv.multimediaskype1327/1328skypecciptv.multimedia/8315.ts
+#EXTINF:-1,Vite da Crociera
+http://tvtelevision.no-ip.net:8000/live/cciptv.multimediaskype1327/1328skypecciptv.multimedia/10970.ts
+#EXTINF:-1,--------  Italiani Vari  --------
+http://tvtelevision.no-ip.net:8000/live/cciptv.multimediaskype1327/1328skypecciptv.multimedia/754.ts
+#EXTINF:-1,Cielo
+http://tvtelevision.no-ip.net:8000/live/cciptv.multimediaskype1327/1328skypecciptv.multimedia/8274.ts
+#EXTINF:-1,Alice
+http://tvtelevision.no-ip.net:8000/live/cciptv.multimediaskype1327/1328skypecciptv.multimedia/26.ts
+#EXTINF:-1,Dmax
+http://tvtelevision.no-ip.net:8000/live/cciptv.multimediaskype1327/1328skypecciptv.multimedia/1305.ts
+#EXTINF:-1,La 5
+http://tvtelevision.no-ip.net:8000/live/cciptv.multimediaskype1327/1328skypecciptv.multimedia/5602.ts
+#EXTINF:-1,Mediaset Extra
+http://tvtelevision.no-ip.net:8000/live/cciptv.multimediaskype1327/1328skypecciptv.multimedia/5601.ts
+#EXTINF:-1,Mediaset Italia 2 HD
+http://tvtelevision.no-ip.net:8000/live/cciptv.multimediaskype1327/1328skypecciptv.multimedia/7848.ts
+#EXTINF:-1,Italia: 20 Mediaset (Direct)
+http://tvtelevision.no-ip.net:8000/live/cciptv.multimediaskype1327/1328skypecciptv.multimedia/11373.ts
+#EXTINF:-1,Italia: Giallo (Direct)
+http://tvtelevision.no-ip.net:8000/live/cciptv.multimediaskype1327/1328skypecciptv.multimedia/11371.ts
+#EXTINF:-1,Italia: Spike (Direct)
+http://tvtelevision.no-ip.net:8000/live/cciptv.multimediaskype1327/1328skypecciptv.multimedia/11368.ts
+#EXTINF:-1,Italia: Alpha (Direct)
+http://tvtelevision.no-ip.net:8000/live/cciptv.multimediaskype1327/1328skypecciptv.multimedia/11369.ts
+#EXTINF:-1,Italia: Blaze (Direct)
+http://tvtelevision.no-ip.net:8000/live/cciptv.multimediaskype1327/1328skypecciptv.multimedia/11370.ts
+#EXTINF:-1,Marco Polo
+http://tvtelevision.no-ip.net:8000/live/cciptv.multimediaskype1327/1328skypecciptv.multimedia/6970.ts
+#EXTINF:-1,Real Time
+http://tvtelevision.no-ip.net:8000/live/cciptv.multimediaskype1327/1328skypecciptv.multimedia/6705.ts
+#EXTINF:-1,------------  Sports ------------
+http://tvtelevision.no-ip.net:8000/live/cciptv.multimediaskype1327/1328skypecciptv.multimedia/744.ts
+#EXTINF:-1,Dazn Serie A Goal
+http://tvtelevision.no-ip.net:8000/live/cciptv.multimediaskype1327/1328skypecciptv.multimedia/9287.ts
+#EXTINF:-1,Dazn Channel Feed One
+http://tvtelevision.no-ip.net:8000/live/cciptv.multimediaskype1327/1328skypecciptv.multimedia/9987.ts
+#EXTINF:-1,Dazn GPMotori
+http://tvtelevision.no-ip.net:8000/live/cciptv.multimediaskype1327/1328skypecciptv.multimedia/9289.ts
+#EXTINF:-1,Dazn Fight World
+http://tvtelevision.no-ip.net:8000/live/cciptv.multimediaskype1327/1328skypecciptv.multimedia/8409.ts
+#EXTINF:-1,Dazn Feed
+http://tvtelevision.no-ip.net:8000/live/cciptv.multimediaskype1327/1328skypecciptv.multimedia/9965.ts
+#EXTINF:-1,DAZN Tedesco Match
+http://tvtelevision.no-ip.net:8000/live/cciptv.multimediaskype1327/1328skypecciptv.multimedia/10815.ts
+#EXTINF:-1,DAZN Tedesco Serie A
+http://tvtelevision.no-ip.net:8000/live/cciptv.multimediaskype1327/1328skypecciptv.multimedia/10814.ts
+#EXTINF:-1,Sport 24 HD*
+http://tvtelevision.no-ip.net:8000/live/cciptv.multimediaskype1327/1328skypecciptv.multimedia/972.ts
+#EXTINF:-1,Italia: Sport24 HD (Direct)
+http://tvtelevision.no-ip.net:8000/live/cciptv.multimediaskype1327/1328skypecciptv.multimedia/11331.ts
+#EXTINF:-1,Sport Uno HD*
+http://tvtelevision.no-ip.net:8000/live/cciptv.multimediaskype1327/1328skypecciptv.multimedia/976.ts
+#EXTINF:-1,Italia: Sport Uno HD (Direct)
+http://tvtelevision.no-ip.net:8000/live/cciptv.multimediaskype1327/1328skypecciptv.multimedia/11330.ts
+#EXTINF:-1,Sport Uno + HD
+http://tvtelevision.no-ip.net:8000/live/cciptv.multimediaskype1327/1328skypecciptv.multimedia/10339.ts
+#EXTINF:-1,Italia: Sport Football HD (Direct)
+http://tvtelevision.no-ip.net:8000/live/cciptv.multimediaskype1327/1328skypecciptv.multimedia/11329.ts
+#EXTINF:-1,Sport Football. HD
+http://tvtelevision.no-ip.net:8000/live/cciptv.multimediaskype1327/1328skypecciptv.multimedia/9960.ts
+#EXTINF:-1,Sport Arena HD*
+http://tvtelevision.no-ip.net:8000/live/cciptv.multimediaskype1327/1328skypecciptv.multimedia/977.ts
+#EXTINF:-1,Italia: Sport Arena HD (Direct)
+http://tvtelevision.no-ip.net:8000/live/cciptv.multimediaskype1327/1328skypecciptv.multimedia/11328.ts
+#EXTINF:-1,Sport MotoGP HD*
+http://tvtelevision.no-ip.net:8000/live/cciptv.multimediaskype1327/1328skypecciptv.multimedia/5633.ts
+#EXTINF:-1,Italia: Sport MotoGP HD (Direct)
+http://tvtelevision.no-ip.net:8000/live/cciptv.multimediaskype1327/1328skypecciptv.multimedia/11314.ts
+#EXTINF:-1,Sport F1 HD*
+http://tvtelevision.no-ip.net:8000/live/cciptv.multimediaskype1327/1328skypecciptv.multimedia/5632.ts
+#EXTINF:-1,Italia: Sport F1 HD (Direct)
+http://tvtelevision.no-ip.net:8000/live/cciptv.multimediaskype1327/1328skypecciptv.multimedia/11324.ts
+#EXTINF:-1,Italia: Sport Golf HD (Direct)
+http://tvtelevision.no-ip.net:8000/live/cciptv.multimediaskype1327/1328skypecciptv.multimedia/11327.ts
+#EXTINF:-1,Italia: Sport NBA HD (Direct)
+http://tvtelevision.no-ip.net:8000/live/cciptv.multimediaskype1327/1328skypecciptv.multimedia/11326.ts
+#EXTINF:-1,Wrestling W.W.E
+http://tvtelevision.no-ip.net:8000/live/cciptv.multimediaskype1327/1328skypecciptv.multimedia/789.ts
+#EXTINF:-1,Eurosport 1 HD
+http://tvtelevision.no-ip.net:8000/live/cciptv.multimediaskype1327/1328skypecciptv.multimedia/48.ts
+#EXTINF:-1,Eurosport 2 HD
+http://tvtelevision.no-ip.net:8000/live/cciptv.multimediaskype1327/1328skypecciptv.multimedia/49.ts
+#EXTINF:-1,Rai Sport + HD
+http://tvtelevision.no-ip.net:8000/live/cciptv.multimediaskype1327/1328skypecciptv.multimedia/50.ts
+#EXTINF:-1,SuperTennis HD
+http://tvtelevision.no-ip.net:8000/live/cciptv.multimediaskype1327/1328skypecciptv.multimedia/52.ts
+#EXTINF:-1,--------  Calcio  --------
+http://tvtelevision.no-ip.net:8000/live/cciptv.multimediaskype1327/1328skypecciptv.multimedia/745.ts
+#EXTINF:-1,Sport Serie A HD*
+http://tvtelevision.no-ip.net:8000/live/cciptv.multimediaskype1327/1328skypecciptv.multimedia/8292.ts
+#EXTINF:-1,Italia: Sport Serie A HD (Direct)
+http://tvtelevision.no-ip.net:8000/live/cciptv.multimediaskype1327/1328skypecciptv.multimedia/11325.ts
+#EXTINF:-1,*Sport* Seria A HD
+http://tvtelevision.no-ip.net:8000/live/cciptv.multimediaskype1327/1328skypecciptv.multimedia/11077.ts
+#EXTINF:-1,Sport 1 HD*
+http://tvtelevision.no-ip.net:8000/live/cciptv.multimediaskype1327/1328skypecciptv.multimedia/5615.ts
+#EXTINF:-1,Sport 2 HD*
+http://tvtelevision.no-ip.net:8000/live/cciptv.multimediaskype1327/1328skypecciptv.multimedia/6837.ts
+#EXTINF:-1,Sport 3 HD*
+http://tvtelevision.no-ip.net:8000/live/cciptv.multimediaskype1327/1328skypecciptv.multimedia/5583.ts
+#EXTINF:-1,Sport 4 HD*
+http://tvtelevision.no-ip.net:8000/live/cciptv.multimediaskype1327/1328skypecciptv.multimedia/5584.ts
+#EXTINF:-1,Sport 5 HD*
+http://tvtelevision.no-ip.net:8000/live/cciptv.multimediaskype1327/1328skypecciptv.multimedia/6835.ts
+#EXTINF:-1,Sport 6 HD*
+http://tvtelevision.no-ip.net:8000/live/cciptv.multimediaskype1327/1328skypecciptv.multimedia/6836.ts
+#EXTINF:-1,Sport 7 HD*
+http://tvtelevision.no-ip.net:8000/live/cciptv.multimediaskype1327/1328skypecciptv.multimedia/8792.ts
+#EXTINF:-1,Sport 8 HD*
+http://tvtelevision.no-ip.net:8000/live/cciptv.multimediaskype1327/1328skypecciptv.multimedia/8793.ts
+#EXTINF:-1,Sport 9 HD*
+http://tvtelevision.no-ip.net:8000/live/cciptv.multimediaskype1327/1328skypecciptv.multimedia/8795.ts
+#EXTINF:-1,Sport 10 HD*
+http://tvtelevision.no-ip.net:8000/live/cciptv.multimediaskype1327/1328skypecciptv.multimedia/8797.ts
+#EXTINF:-1,F.C Inter Channel  HD
+http://tvtelevision.no-ip.net:8000/live/cciptv.multimediaskype1327/1328skypecciptv.multimedia/55.ts
+#EXTINF:-1,A.C Milan Channel
+http://tvtelevision.no-ip.net:8000/live/cciptv.multimediaskype1327/1328skypecciptv.multimedia/1361.ts
+#EXTINF:-1,F.C Juventus Channel HD
+http://tvtelevision.no-ip.net:8000/live/cciptv.multimediaskype1327/1328skypecciptv.multimedia/56.ts
+#EXTINF:-1,A.S. Roma Channel
+http://tvtelevision.no-ip.net:8000/live/cciptv.multimediaskype1327/1328skypecciptv.multimedia/57.ts
+#EXTINF:-1,S.S.C. Napoli Channel HD
+http://tvtelevision.no-ip.net:8000/live/cciptv.multimediaskype1327/1328skypecciptv.multimedia/8464.ts
+#EXTINF:-1,--------  Musica  --------
+http://tvtelevision.no-ip.net:8000/live/cciptv.multimediaskype1327/1328skypecciptv.multimedia/746.ts
+#EXTINF:-1,M2o Music TV
+http://tvtelevision.no-ip.net:8000/live/cciptv.multimediaskype1327/1328skypecciptv.multimedia/5545.ts
+#EXTINF:-1,RadioNorba Music TV
+http://tvtelevision.no-ip.net:8000/live/cciptv.multimediaskype1327/1328skypecciptv.multimedia/5548.ts
+#EXTINF:-1,--------  Cultura  --------
+http://tvtelevision.no-ip.net:8000/live/cciptv.multimediaskype1327/1328skypecciptv.multimedia/749.ts
+#EXTINF:-1,Arte HD
+http://tvtelevision.no-ip.net:8000/live/cciptv.multimediaskype1327/1328skypecciptv.multimedia/7707.ts
+#EXTINF:-1,History +1 HD
+http://tvtelevision.no-ip.net:8000/live/cciptv.multimediaskype1327/1328skypecciptv.multimedia/9849.ts
+#EXTINF:-1,Discovery Channel +1 HD
+http://tvtelevision.no-ip.net:8000/live/cciptv.multimediaskype1327/1328skypecciptv.multimedia/9843.ts
+#EXTINF:-1,Discovery Science +1 HD
+http://tvtelevision.no-ip.net:8000/live/cciptv.multimediaskype1327/1328skypecciptv.multimedia/9844.ts
+#EXTINF:-1,National Geographic +1 HD
+http://tvtelevision.no-ip.net:8000/live/cciptv.multimediaskype1327/1328skypecciptv.multimedia/9845.ts
+#EXTINF:-1,NatGeo People +1 HD
+http://tvtelevision.no-ip.net:8000/live/cciptv.multimediaskype1327/1328skypecciptv.multimedia/9847.ts
+#EXTINF:-1,NatGeo Wild +1 HD
+http://tvtelevision.no-ip.net:8000/live/cciptv.multimediaskype1327/1328skypecciptv.multimedia/9846.ts
+#EXTINF:-1,Gambero Rosso +1 HD
+http://tvtelevision.no-ip.net:8000/live/cciptv.multimediaskype1327/1328skypecciptv.multimedia/9850.ts
+#EXTINF:-1,Gambero Rosso HD*
+http://tvtelevision.no-ip.net:8000/live/cciptv.multimediaskype1327/1328skypecciptv.multimedia/486.ts
+#EXTINF:-1,Caccia e Pesca HD
+http://tvtelevision.no-ip.net:8000/live/cciptv.multimediaskype1327/1328skypecciptv.multimedia/2735.ts
+#EXTINF:-1,Pesca e Caccia HD
+http://tvtelevision.no-ip.net:8000/live/cciptv.multimediaskype1327/1328skypecciptv.multimedia/2736.ts
+#EXTINF:-1,--------  Bambini  --------
+http://tvtelevision.no-ip.net:8000/live/cciptv.multimediaskype1327/1328skypecciptv.multimedia/747.ts
+#EXTINF:-1,Disney Channel HD
+http://tvtelevision.no-ip.net:8000/live/cciptv.multimediaskype1327/1328skypecciptv.multimedia/86.ts
+#EXTINF:-1,Disney XD HD
+http://tvtelevision.no-ip.net:8000/live/cciptv.multimediaskype1327/1328skypecciptv.multimedia/85.ts
+#EXTINF:-1,Disney Junior HD
+http://tvtelevision.no-ip.net:8000/live/cciptv.multimediaskype1327/1328skypecciptv.multimedia/87.ts
+#EXTINF:-1,Disney Princess 2     6 02 051
+http://tvtelevision.no-ip.net:8000/live/cciptv.multimediaskype1327/1328skypecciptv.multimedia/8389.ts
+#EXTINF:-1,Cartoon Network HD
+http://tvtelevision.no-ip.net:8000/live/cciptv.multimediaskype1327/1328skypecciptv.multimedia/793.ts
+#EXTINF:-1,RAI YOYO
+http://tvtelevision.no-ip.net:8000/live/cciptv.multimediaskype1327/1328skypecciptv.multimedia/91.ts
+#EXTINF:-1,RAI Gulp
+http://tvtelevision.no-ip.net:8000/live/cciptv.multimediaskype1327/1328skypecciptv.multimedia/513.ts
+#EXTINF:-1,Boing
+http://tvtelevision.no-ip.net:8000/live/cciptv.multimediaskype1327/1328skypecciptv.multimedia/88.ts
+#EXTINF:-1,Cartoonito
+http://tvtelevision.no-ip.net:8000/live/cciptv.multimediaskype1327/1328skypecciptv.multimedia/92.ts
+#EXTINF:-1,--------  News 24  --------
+http://tvtelevision.no-ip.net:8000/live/cciptv.multimediaskype1327/1328skypecciptv.multimedia/776.ts
+#EXTINF:-1,TG 24
+http://tvtelevision.no-ip.net:8000/live/cciptv.multimediaskype1327/1328skypecciptv.multimedia/93.ts
+#EXTINF:-1,Premium Stories
+http://tvtelevision.no-ip.net:8000/live/cciptv.multimediaskype1327/1328skypecciptv.multimedia/109.ts
+#EXTINF:-1,Premium Cinema
+http://tvtelevision.no-ip.net:8000/live/cciptv.multimediaskype1327/1328skypecciptv.multimedia/101.ts
+#EXTINF:-1,Premium Cinema Joi
+http://tvtelevision.no-ip.net:8000/live/cciptv.multimediaskype1327/1328skypecciptv.multimedia/108.ts
+#EXTINF:-1,Premium Cinema  Emotion
+http://tvtelevision.no-ip.net:8000/live/cciptv.multimediaskype1327/1328skypecciptv.multimedia/106.ts
+#EXTINF:-1,Premium Cinema Comedy
+http://tvtelevision.no-ip.net:8000/live/cciptv.multimediaskype1327/1328skypecciptv.multimedia/103.ts
+#EXTINF:-1,Premium Cinema Action
+http://tvtelevision.no-ip.net:8000/live/cciptv.multimediaskype1327/1328skypecciptv.multimedia/97.ts
+#EXTINF:-1,Premium Crime
+http://tvtelevision.no-ip.net:8000/live/cciptv.multimediaskype1327/1328skypecciptv.multimedia/105.ts
